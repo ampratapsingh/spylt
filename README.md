@@ -1,1 +1,1 @@
-Modern website made with gsap
+Modern website made with gsap and motion functionalities.
